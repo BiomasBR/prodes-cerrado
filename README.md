@@ -1,10 +1,10 @@
-PRODES-CERRADO experiments and pipelines developed using the SITS package
+Prodes-Cerrado experiments and pipelines developed using the SITS package
 ================
 
 <img src="./inst/extdata/sticker/biomasbr_logo.jpeg" alt="RESTORE+ icon" align="right" height="150" width="150"/>
 
 This repository brings together reproducible experiments and processing pipelines
-from the PRODES-CERRADO project, developed using the SITS package. Its purpose
+from the Prodes-Cerrado project, developed using the SITS package. Its purpose
 is to clearly and systematically document the adopted workflows,
 providing references for experimentation, validation, and methodological
 improvements, while supporting reproducibility and the continuous
@@ -16,7 +16,7 @@ To use the scripts in this repository, clone the project to
 your local machine using the command below:
 
 ``` sh
-git clone https://github.com/migualex/sits-prodes
+git clone https://github.com/BiomasBR/prodes-cerrado
 ```
 
 After cloning, open the sits-prodes directory in RStudio and install the
@@ -24,13 +24,6 @@ package using the command:
 
 ``` r
 devtools::install(".")
-```
-
-# Documentation
-Visit our website to explore the sampling protocol and learn more about the data used:
-
-``` sh
-https://migualex.github.io/sits-prodes/
 ```
 
 # Repository structure
