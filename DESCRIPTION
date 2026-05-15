@@ -1,20 +1,20 @@
 Package: sitsprodes
-Title: PRODES-AMZ workflow experiments using the SITS package
+Title: PRODES-CERRADO workflow experiments using the SITS package
 Version: 0.1.0
 Authors@R:
     c(
       person(given = "PRODES", family = "AMZ", role = c("aut", "cre"),
              email = "prodes.amz@inpe.br"),
-      person(given = "Miguel", family = "Cunha", role = "aut",
-             email = "migualexandr@gmail.com"),
-      person(given = "Guilherme", family = "Correia", role = "aut",
-             email = "guilherme.correia@inpe.br"),
-      person(given = "Gustavo", family = "Salgado", role = "aut",
-             email = "gustavo.salgado@inpe.br"),
+      person(given = "Isabel", family = "Silva", role = "aut",
+             email = "belsilva48@gmail.com"),
+      person(given = "Marcia", family = "Chen", role = "aut",
+             email = "marciachen.inpe@gmail.com"),
+      person(given = "Sergio", family = "Dousseau", role = "aut",
+             email = "sergiodousseau@gmail.com"),
       person(given = "Pedro", family = "Brito", role = "aut",
              email = "pedro.brito@inpe.br")
     )
-Description: Tools and workflows to support the use of PRODES-AMZ within the sits ecosystem.
+Description: Tools and workflows to support the use of PRODES-CERRADO within the sits ecosystem.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
