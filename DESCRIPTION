@@ -3,8 +3,8 @@ Title: PRODES-CERRADO workflow experiments using the SITS package
 Version: 0.1.0
 Authors@R:
     c(
-      person(given = "PRODES", family = "AMZ", role = c("aut", "cre"),
-             email = "prodes.amz@inpe.br"),
+      person(given = "PRODES", family = "CERRADO", role = c("aut", "cre"),
+             email = "prodes.cerrado@gmail.com"),
       person(given = "Isabel", family = "Silva", role = "aut",
              email = "belsilva48@gmail.com"),
       person(given = "Marcia", family = "Chen", role = "aut",
