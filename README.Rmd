@@ -1,5 +1,5 @@
 ---
-title: "PRODES-AMZ experiments and pipelines using the SITS package"
+title: "PRODES-CERRADO experiments and pipelines using the SITS package"
 output: github_document
 ---
 
