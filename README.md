@@ -1,7 +1,7 @@
 Prodes-Cerrado experiments and pipelines developed using the SITS package
 ================
 
-<img src="./data/extdata/sticker/biomasbr_logo.jpeg" alt="RESTORE+ icon" align="right" height="150" width="150"/>
+<img src="./docs/sticker/biomasbr_logo.jpeg" alt="RESTORE+ icon" align="right" height="150" width="150"/>
 
 This repository brings together reproducible experiments and processing pipelines
 from the Prodes-Cerrado project, developed using the SITS package. Its purpose
@@ -38,7 +38,7 @@ devtools::install(".")
 The data and results available in this repository are licensed under the
 terms of the Creative Commons license:
 
-<img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./data/extdata/licenses/Cc-by-nc-sa_icon.png" alt="CC BY Icon" width="70">[Link](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+<img style="display: inline-block; vertical-align: middle; margin-right: 5px;" src="./docs/licenses/Cc-by-nc-sa_icon.png" alt="CC BY Icon" width="70">[Link](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Support
 
